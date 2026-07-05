@@ -71,6 +71,16 @@ Building a **sales landing page** for a business in Panama — combining my e-co
 
 ---
 
+### 🏅 Badges
+
+![GitHub followers](https://img.shields.io/github/followers/Aledezma29?style=flat-square&color=blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/Aledezma29?style=flat-square&color=yellow)
+![Focus](https://img.shields.io/badge/Focus-Front--End%20Development-2ea44f?style=flat-square)
+![Learning](https://img.shields.io/badge/Currently%20Learning-AI%20Agents-blueviolet?style=flat-square)
+![Primary Language](https://img.shields.io/badge/Primary%20Language-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
+
 ### 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/andrés-ledezma-a3307a242) • [ledezma.andres29@gmail.com](mailto:ledezma.andres29@gmail.com)
