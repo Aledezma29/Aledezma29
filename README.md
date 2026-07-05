@@ -59,6 +59,24 @@ Building a **sales landing page** for a business in Panama — combining my e-co
 
 ---
 
+---
+
+### 💼 Featured Work
+
+**🛒 Sales Landing Page** *(Private Client Project)*
+
+A conversion-focused sales landing page built for a business based in Panama.
+
+<img src="./landing-page.png" width="700" alt="Sales Landing Page Preview" />
+
+- **Stack:** Astro, Tailwind CSS, JavaScript
+- **Focus:** Fast load times, responsive design, and clean UX for driving conversions
+- **Workflow:** Built using AI-assisted development tools (Claude Code, MCPs) to accelerate iteration
+
+*Code is private due to client confidentiality — happy to walk through the project or share a demo/screenshots on request.*
+
+---
+
 ### 📊 GitHub Stats
 
 ![Aledezma29's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Aledezma29&show_icons=true&theme=highcontrast&hide_border=true)
