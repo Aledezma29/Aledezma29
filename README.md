@@ -69,7 +69,7 @@ A conversion-focused sales landing page built for a business based in Panama.
 
 <img src="./landing-page.png" width="700" alt="Sales Landing Page Preview" />
 
-- **Stack:** Astro, Tailwind CSS, JavaScript
+- **Stack:** Astro, CSS, JavaScript, TypeScript
 - **Focus:** Fast load times, responsive design, and clean UX for driving conversions
 - **Workflow:** Built using AI-assisted development tools (Claude Code, MCPs) to accelerate iteration
 
